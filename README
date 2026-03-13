@@ -1,0 +1,55 @@
+# Smart Expense Tracker
+
+A full-stack expense tracker built using **React, Node.js, Express, and MongoDB**.
+
+## Features
+
+* Add income and expenses
+* View transaction history
+* REST API backend
+* MongoDB database
+* React frontend dashboard
+
+## Tech Stack
+
+Frontend:
+
+* React
+* Axios
+* Recharts
+
+Backend:
+
+* Node.js
+* Express
+* MongoDB
+* JWT Authentication
+
+## Installation
+
+### Clone the repository
+
+git clone https://github.com/yourusername/smart-expense-tracker.git
+
+### Backend setup
+
+cd backend
+npm install
+npm run dev
+
+### Frontend setup
+
+cd frontend
+npm install
+npm start
+
+## Environment Variables
+
+Create `.env` file in backend:
+
+MONGO_URI=your_mongodb_connection
+PORT=5000
+
+## Author
+
+Final Year Full Stack Project
